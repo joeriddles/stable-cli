@@ -1,0 +1,5 @@
+diffusers
+scipy
+torch
+transformers
+typer[all]
