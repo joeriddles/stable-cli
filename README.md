@@ -9,7 +9,14 @@
 
 ```
 cd src
-python -m cli.main nitro 'Obi Wan Kenobi, arcane style'
+python -m cli spiderverse 'Obi Wan Kenobi, spiderverse style'
+```
+
+![Obi Wan Kenobi, arcane style](examples/Obi_Wan_Kenobi_spiderverse_style.png)
+
+```
+cd src
+python -m cli nitro 'Obi Wan Kenobi, arcane style'
 ```
 
 ![Obi Wan Kenobi, arcane style](examples/Obi_Wan_Kenobi_arcane_style.png)
